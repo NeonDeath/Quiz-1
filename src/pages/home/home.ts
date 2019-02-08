@@ -31,3 +31,7 @@ export class HomePage {
   }
 
 }
+
+//Las imagenes se encuantran en un arreglo llamado pictures, en el cual se tiene que acceder utilizando  "[0]" para poder acceder a la posición deseada.
+// La dirección de la casa se encuentra en geo, primero se utiliza el name y despues displayName para especificar la zona.
+// El precio se encuentr en un diccionario llamado price, el que se utiliza es formattedAmount para que aparezca la cantidad y el simbolo de dinero.
